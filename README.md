@@ -26,13 +26,10 @@
   * *FindIcon*
   * *FlatIcon*
 
-## Installation/Deployed Version 💉
-
- 👉 [Scientific Calculator Apk](https://github.com/Ruhul12/Scientific-Calculator/blob/main/app-release.apk)
 
 ## Bugs 😥
 
 > *If there any known bugs found, please let me know.*
 > *Please enjoy
-and feel free to share your opinion, constructive criticism, or comments about my work. Email: 👉 ruhulaminparvez007@gmail.com ☺ Thank you!* 
+and feel free to share your opinion, constructive criticism, or comments about my work. Email: 👉 suhanwhats@gmail.com ☺ Thank you!* 
  
